@@ -55,6 +55,34 @@ Adaptador de Ethernet Ethernet:
 Gaston
 1.168.2.1
 11:16 am
+Configuración IP de Windows
+
+
+Adaptador de Ethernet Ethernet:
+
+   Sufijo DNS específico para la conexión. . :
+   Dirección IPv6 . . . . . . . . . . : 2802:8010:b094:f700:671b:d501:759e:1d25
+   Dirección IPv6 temporal. . . . . . : 2802:8010:b094:f700:d486:e213:8e30:7c85
+   Vínculo: dirección IPv6 local. . . : fe80::9ebd:4497:19fa:4c76%8
+   Dirección IPv4. . . . . . . . . . . . . . : 192.168.1.45
+   Máscara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : fe80::aec6:62ff:fec7:8846%8
+                                       192.168.1.1
+
+Adaptador de Ethernet Ethernet 2:
+
+   Sufijo DNS específico para la conexión. . :
+   Vínculo: dirección IPv6 local. . . : fe80::4c1e:7388:d2a6:2056%13
+   Dirección IPv4. . . . . . . . . . . . . . : 192.168.56.1
+   Máscara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . :
+
+Adaptador de Ethernet Conexión de red Bluetooth 2:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS específico para la conexión. . :
+//////////////////////////////////////////////////////////////////////////////////////////
+
 
 Nombre: Ian Schneider
 IP: 192.168.56.1

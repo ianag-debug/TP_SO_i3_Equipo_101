@@ -25,12 +25,33 @@ Adaptador de Ethernet Ethernet 2:
    M scara de subred . . . . . . . . . . . . : 255.255.255.0
    Puerta de enlace predeterminada . . . . . : 
 
-
+--------------------------------------------------------------------------
 GAMMA: 
 Nombre: Angel Barrionuevo 
 IP: 192.168.47.213
 Hora: 10:28
 
+Configuración IP de Windows
+
+
+Adaptador de Ethernet Ethernet 2:
+
+   Sufijo DNS específico para la conexión. . :
+   Vínculo: dirección IPv6 local. . . : fe80::44b5:f97d:dff6:d76%11
+   Dirección IPv4. . . . . . . . . . . . . . : 192.168.56.1
+   Máscara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . :
+
+Adaptador de Ethernet Ethernet:
+
+   Sufijo DNS específico para la conexión. . :
+   Vínculo: dirección IPv6 local. . . : fe80::add3:cf09:62b7:80d3%6
+   Dirección IPv4. . . . . . . . . . . . . . : 192.168.1.102
+   Máscara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : 192.168.1.1
+
+
+-----------------------------------------------------------------------------------------
 Gaston
 1.168.2.1
 11:16 am

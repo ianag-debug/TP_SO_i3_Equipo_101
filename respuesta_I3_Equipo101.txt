@@ -37,3 +37,11 @@ git commit -m "GAMMA Barrionuevo Angel: agrega datos en beta.txt"
 git push origin schneider
 Responde ALFA:
 G-¿que debió hacer(todos los comandos) en el punto 8 para poder hacer lo pedido?
+G) Comandos ejecutados por ALFA (Quinteros Gaston) en el punto 8:
+
+git fetch origin
+git checkout schneider
+# Se editó beta.txt agregando nombre, apellido, ifconfig y hora
+git add beta.txt
+git commit -m "ALFA Quinteros Gaston: agrega datos en beta.txt"
+git push origin schneider

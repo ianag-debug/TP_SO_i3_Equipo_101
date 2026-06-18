@@ -16,7 +16,24 @@ git push origin main
 
 Responde GAMMA:
 d-¿Las ramas creadas por BETA y GAMMA quedan con datos actualizados?
+Las ramas creadas por BETA y GAMMA no quedan automáticamente 
+actualizadas entre sí. Cada rama es independiente hasta que se hace 
+un merge. La rama barrionuevo tiene los cambios de GAMMA, ALFA y BETA, 
+pero la rama schneider solo tiene los de BETA hasta que GAMMA y ALFA 
+modifiquen beta.txt.
 e-¿Detalle (explique) los problemas que tuvieron al hacer el merge?
+ El problema al hacer el merge fue un conflicto en datos.txt, ya que 
+los tres integrantes modificaron el mismo archivo en la misma rama. 
+Git no pudo resolver solo cuál versión conservar y marcó el conflicto 
+con los símbolos <<<<<<, ======= y >>>>>>>. Hubo que abrir el archivo 
+manualmente, unir todos los datos y luego hacer el commit.
 f-¿que debió hacer (todos los comandos) en el punto 7 para poder hacer lo pedido?
+Comandos para el punto 7:
+git fetch origin
+git checkout schneider
+Se editó beta.txt agregando nombre, ifconfig y hora
+git add beta.txt
+git commit -m "GAMMA Barrionuevo Angel: agrega datos en beta.txt"
+git push origin schneider
 Responde ALFA:
 G-¿que debió hacer(todos los comandos) en el punto 8 para poder hacer lo pedido?

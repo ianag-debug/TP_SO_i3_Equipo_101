@@ -1,0 +1,40 @@
+Configuraci¢n IP de Windows
+
+
+Adaptador de Ethernet Ethernet:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS espec¡fico para la conexi¢n. . : fibertel.com.ar
+
+Adaptador de LAN inal mbrica Wi-Fi:
+
+   Sufijo DNS espec¡fico para la conexi¢n. . : 
+   Direcci¢n IPv6 . . . . . . . . . . : 2803:9800:a01d:8013:491f:99f6:3008:4c87
+   Direcci¢n IPv6 temporal. . . . . . : 2803:9800:a01d:8013:5486:a0df:22f6:8081
+   V¡nculo: direcci¢n IPv6 local. . . : fe80::db18:6b69:f1fe:313%4
+   Direcci¢n IPv4. . . . . . . . . . . . . . : 192.168.100.23
+   M scara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : fe80::1%4
+                                       192.168.100.1
+
+Adaptador de Ethernet Ethernet 2:
+
+   Sufijo DNS espec¡fico para la conexi¢n. . : 
+   V¡nculo: direcci¢n IPv6 local. . . : fe80::d8:7484:c754:c9b3%5
+   Direcci¢n IPv4. . . . . . . . . . . . . . : 192.168.56.1
+   M scara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : 
+
+
+GAMMA: 
+Nombre: Angel Barrionuevo 
+IP: 192.168.47.213
+Hora: 10:28
+
+Gaston
+1.168.2.1
+11:16 am
+
+Nombre: Ian Schneider
+IP: 192.168.56.1
+Hora:11:28 am

@@ -6,7 +6,3 @@ Hora: 10:28
 Gaston
 1.168.2.1
 11:16 am
-
-Nombre: Ian Schneider
-IP: 192.168.56.1
-Hora:11:28 am
